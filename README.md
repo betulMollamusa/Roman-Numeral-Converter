@@ -1,0 +1,1 @@
+The Roman Numeral Converter is a web application that converts a given number into its Roman numeral equivalent. It handles numbers between 1 and 3999, providing users with a clear and accurate conversion.
